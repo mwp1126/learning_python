@@ -1,0 +1,8 @@
+1.dir列表：
+D:\mwp>dir
+
+2.cd切换
+D:\mwp>cd D:\pycharm
+
+3.more：
+D:\mwp>more < calc.py
